@@ -1,0 +1,10 @@
+Column,Description
+Date,Date of the trading day
+Open,Opening price of the index
+High,Highest price of the index during the day
+Low,Lowest price of the index during the day
+Close,Closing price of the index
+Volume,Total number of shares traded
+Dividends,The dividend yield (annual dividend per share divided by the stock price) and the dividend payout ratio. 
+StockSplits," A history of stock splits, including the date and ratio."
+Date,"The date of the stock, given as an object value "
